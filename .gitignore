@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+candidate_jobs.db*
+logs/
+.DS_Store
+reports/screenshots/
