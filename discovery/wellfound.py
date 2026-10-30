@@ -48,3 +48,4 @@ class WellfoundDiscovery(BaseDiscoveryModule):
         self.polite_delay()
         logger.info(f"Wellfound discovery discovered {len(jobs)} jobs.")
         return jobs[:max_results]
+

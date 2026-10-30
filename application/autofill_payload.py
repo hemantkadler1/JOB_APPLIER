@@ -95,3 +95,4 @@ class AutofillPayloadBuilder:
         }
 
         return payload
+

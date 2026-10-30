@@ -4,3 +4,4 @@ from matching.deduplicator import JobDeduplicator
 from matching.matcher import JobMatcher
 
 __all__ = ["ResumeParser", "JobDeduplicator", "JobMatcher"]
+

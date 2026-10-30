@@ -65,3 +65,4 @@ logging.basicConfig(
 def get_logger(name: str) -> logging.Logger:
     """Return a logger instance with configured handlers."""
     return logging.getLogger(name)
+

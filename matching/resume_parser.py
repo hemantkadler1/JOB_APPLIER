@@ -97,3 +97,4 @@ class ResumeParser:
             "email": email_match.group(0) if email_match else None,
             "phone": phone_match.group(0) if phone_match else None
         }
+

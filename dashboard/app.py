@@ -407,3 +407,4 @@ with tab_analytics:
             st.line_chart(df_trend.set_index("date")["count"])
         else:
             st.info("Trend data will populate over the next few days.")
+

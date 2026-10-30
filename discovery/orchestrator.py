@@ -51,3 +51,4 @@ class DiscoveryOrchestrator:
 
         logger.info(f"Total discovered jobs across all platforms: {len(all_jobs)}")
         return all_jobs
+

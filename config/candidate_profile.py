@@ -119,3 +119,4 @@ CANDIDATE_PROFILE: Dict[str, Any] = {
         "INFOTHON 4.0 (Feb 2025): Developed Ocean AI pollution detection project"
     ]
 }
+

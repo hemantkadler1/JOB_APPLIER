@@ -59,3 +59,4 @@ def test_senior_or_irrelevant_job(matcher):
     assert score < MIN_MATCH_SCORE, f"Expected score < {MIN_MATCH_SCORE}, got {score}"
     assert status == "REJECTED_LOW_SCORE"
     assert result["match_breakdown"]["is_eligible"] is False
+

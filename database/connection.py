@@ -34,3 +34,4 @@ def get_db_cursor(db_path: Path = DB_PATH) -> Generator[sqlite3.Cursor, None, No
     finally:
         cursor.close()
         conn.close()
+

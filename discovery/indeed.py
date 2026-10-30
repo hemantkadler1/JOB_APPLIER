@@ -48,3 +48,4 @@ class IndeedDiscovery(BaseDiscoveryModule):
         self.polite_delay()
         logger.info(f"Indeed discovery discovered {len(jobs)} jobs.")
         return jobs[:max_results]
+

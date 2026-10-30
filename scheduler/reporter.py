@@ -91,3 +91,4 @@ class DailyReporter:
             f.write(markdown_content)
         logger.info(f"Daily report saved to {report_path}")
         return report_path
+

@@ -49,3 +49,4 @@ class NaukriDiscovery(BaseDiscoveryModule):
         self.polite_delay()
         logger.info(f"Naukri discovery discovered {len(jobs)} jobs.")
         return jobs[:max_results]
+

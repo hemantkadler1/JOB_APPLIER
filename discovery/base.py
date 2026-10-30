@@ -79,3 +79,4 @@ class BaseDiscoveryModule(ABC):
     def fetch_jobs(self, keywords: List[str], locations: List[str], max_results: int = MAX_JOBS_PER_PLATFORM) -> List[Dict[str, Any]]:
         """Fetch jobs matching criteria from the platform."""
         pass
+

@@ -118,3 +118,4 @@ class PlaywrightApplicationAgent:
             "screenshot_path": str(screenshot_path) if screenshot_path.exists() else None,
             "notes": "Application successfully recorded with verified receipt after candidate approval."
         }
+

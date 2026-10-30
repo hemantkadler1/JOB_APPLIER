@@ -256,3 +256,4 @@ class JobMatcher:
             "match_breakdown": breakdown,
             "status": status
         }
+

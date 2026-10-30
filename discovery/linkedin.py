@@ -48,3 +48,4 @@ class LinkedInDiscovery(BaseDiscoveryModule):
         self.polite_delay()
         logger.info(f"LinkedIn discovery discovered {len(jobs)} jobs.")
         return jobs[:max_results]
+

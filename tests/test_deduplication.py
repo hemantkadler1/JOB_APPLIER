@@ -28,3 +28,4 @@ def test_duplicate_hash_consistency():
         location="Bengaluru"
     )
     assert hash1 == hash2, "Expected matching canonical hash for identical postings with formatting variations."
+

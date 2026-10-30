@@ -67,3 +67,4 @@ class JobDeduplicator:
         norm_l = cls.normalize_location(location, is_remote)
         raw_key = f"{norm_t}::{norm_c}::{norm_l}"
         return hashlib.sha256(raw_key.encode("utf-8")).hexdigest()
+

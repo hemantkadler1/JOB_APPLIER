@@ -48,3 +48,4 @@ class CareerPagesDiscovery(BaseDiscoveryModule):
         self.polite_delay()
         logger.info(f"Career pages discovery discovered {len(jobs)} jobs.")
         return jobs[:max_results]
+

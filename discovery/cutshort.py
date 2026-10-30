@@ -48,3 +48,4 @@ class CutshortDiscovery(BaseDiscoveryModule):
         self.polite_delay()
         logger.info(f"Cutshort discovery discovered {len(jobs)} jobs.")
         return jobs[:max_results]
+

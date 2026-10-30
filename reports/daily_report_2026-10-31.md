@@ -10,11 +10,11 @@
 
 | Metric | Count | Description |
 | :--- | :--- | :--- |
-| 🔍 **New Jobs Discovered** | `8` | Scanned across all 7 discovery channels |
-| 🎯 **Matching Profile (≥70%)** | `7` | Passed AI technical and experience matching |
-| 📝 **Applications Prepared** | `7` | Truthful autofill responses generated |
-| ⏳ **Pending Your Approval** | `7` | Ready for review in Streamlit Dashboard |
-| 🚀 **Applications Submitted** | `0` | Officially confirmed submissions |
+| 🔍 **New Jobs Discovered** | `0` | Scanned across all 7 discovery channels |
+| 🎯 **Matching Profile (≥70%)** | `0` | Passed AI technical and experience matching |
+| 📝 **Applications Prepared** | `0` | Truthful autofill responses generated |
+| ⏳ **Pending Your Approval** | `0` | Ready for review in Streamlit Dashboard |
+| 🚀 **Applications Submitted** | `7` | Officially confirmed submissions |
 
 ---
 

@@ -20,3 +20,4 @@ def test_discovery_orchestrator():
         assert "url" in j
         assert "platform" in j
         assert "duplicate_hash" in j
+

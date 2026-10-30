@@ -48,3 +48,4 @@ class InstahyreDiscovery(BaseDiscoveryModule):
         self.polite_delay()
         logger.info(f"Instahyre discovery discovered {len(jobs)} jobs.")
         return jobs[:max_results]
+
